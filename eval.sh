@@ -1,0 +1,1 @@
+python mnist.py --gpu 0 --evaluate ./logging/mnist_model.pt --path ./logging_test/

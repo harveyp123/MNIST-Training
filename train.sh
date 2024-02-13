@@ -1,0 +1,1 @@
+python mnist.py --gpu 0
